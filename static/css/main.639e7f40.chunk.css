@@ -1,0 +1,2 @@
+.loader{position:relative;width:2rem;height:2rem;background-color:initial;border:1rem dashed #44e6ee;border-radius:50%;margin:1rem;-webkit-animation:rotation 2s ease infinite;animation:rotation 2s ease infinite}@-webkit-keyframes rotation{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes rotation{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+/*# sourceMappingURL=main.639e7f40.chunk.css.map */
